@@ -1,0 +1,7 @@
+{
+    "cmd": ["g++", "$file_name", "-o", "$file_base_name", "&&", "start" ,"$file_base_name"],
+    "selector": "source.c, source.c++",
+    "file_regex": "^\\s*File \"(...*?)\", line ([0-9]*)", "path" : 
+    "C:\\Program Files\\msys64\\mingw64\\bin\\",
+    "shell": true
+}
