@@ -1,7 +1,7 @@
 {
 "cmd": ["start", "cmd", "/k","python", "-u", "$file_name"], 
 "selector": "source.python",
- "file_regex": "^\\s*File \"(...*?)\", line ([0-9]*)", "path" : 
-"C:\\Python310",
- "shell":true
+"file_regex": "^\\s*File \"(...*?)\", line ([0-9]*)",
+"path" : "C:\\Python310",
+"shell":true
 }
